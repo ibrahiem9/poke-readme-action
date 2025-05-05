@@ -19,9 +19,9 @@
   "homepage": "https://github.com/ibrahiem96/poke-readme-action#readme",
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "@actions/github": "^5.1.1",
+    "@actions/github": "^6.0.0",
     "@octokit/core": "^4.1.0",
-    "@octokit/rest": "^19.0.5",
+    "@octokit/rest": "^21.1.1",
     "@vercel/ncc": "^0.36.0",
     "axios": "^1.8.2",
     "node-fetch": "^2.6.7"
