@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ibrahiem96/poke-readme-action#readme",
   "dependencies": {
-    "@actions/core": "^1.10.0",
+    "@actions/core": "^1.11.1",
     "@actions/github": "^5.1.1",
     "@octokit/core": "^4.1.0",
     "@octokit/rest": "^19.0.5",
